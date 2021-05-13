@@ -1,0 +1,2 @@
+# Arduino_Currency_Counter_using_IR_and_Color_Sensor
+Taka counter
